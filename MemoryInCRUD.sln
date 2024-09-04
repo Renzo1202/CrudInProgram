@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryInCRUD", "MemoryInCRUD\MemoryInCRUD.csproj", "{AD08D66B-5754-4323-937F-93CE9BCC8CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD08D66B-5754-4323-937F-93CE9BCC8CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD08D66B-5754-4323-937F-93CE9BCC8CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD08D66B-5754-4323-937F-93CE9BCC8CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD08D66B-5754-4323-937F-93CE9BCC8CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72B7B01-4568-4378-BCFB-3C1D1908BC1A}
+	EndGlobalSection
+EndGlobal

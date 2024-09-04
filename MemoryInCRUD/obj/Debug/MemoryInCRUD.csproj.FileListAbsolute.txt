@@ -1,0 +1,7 @@
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\bin\Debug\MemoryInCRUD.exe.config
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\bin\Debug\MemoryInCRUD.exe
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\bin\Debug\MemoryInCRUD.pdb
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\obj\Debug\MemoryInCRUD.csproj.AssemblyReference.cache
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\obj\Debug\MemoryInCRUD.csproj.CoreCompileInputs.cache
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\obj\Debug\MemoryInCRUD.exe
+E:\TestProgram\MemoryInCRUD\MemoryInCRUD\obj\Debug\MemoryInCRUD.pdb
